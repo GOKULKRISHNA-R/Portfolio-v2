@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "eyebrowLeft": "Gokulkrishna Raju",
+    "eyebrowRight": "Erode, Tamil Nadu · India",
+    "nameLines": ["Gokulkrishna", "Raju"],
+    "roleLines": ["Software Engineer", "Mobile & AI"],
+    "intro": "Member of Technical Staff at SurveySparrow, working on core platform and mobile SDKs. Two published papers in applied machine learning. Starting an *MSc in Advanced Artificial Intelligence* at University College Dublin.",
+    "stats": [
+      { "value": "10×", "label": "API throughput gain" },
+      { "value": "5", "label": "SDK platforms owned" },
+      { "value": "2", "label": "Published papers" },
+      { "value": "350+", "label": "Students taught" }
+    ],
+    "links": [
+      { "label": "gmkrishna11082003@gmail.com", "href": "mailto:gmkrishna11082003@gmail.com" },
+      { "label": "GitHub", "href": "https://github.com/GOKULKRISHNA-R", "external": true },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/gokulkrishna-raju/", "external": true }
+    ]
+  },
+
+  "research": {
+    "title": "Research",
+    "meta": "Two peer-reviewed publications",
+    "items": [
+      {
+        "meta": "2023 · ACL Anthology",
+        "title": "Detection of Signs of Depression using Social Media Text",
+        "description": "A machine learning and deep learning pipeline using BERT, RoBERTa, CNN and SVM for mental health detection. Ranked **12th globally** in LT-EDI@RANLP 2023, hosted on CodaLab.",
+        "tags": ["BERT", "RoBERTa", "CNN", "SVM"],
+        "link": {
+          "label": "Read the paper →",
+          "href": "https://aclanthology.org/2023.ltedi-1.14/"
+        }
+      },
+      {
+        "meta": "2024 · Springer",
+        "title": "Ensemble-Based Attrition Prediction in Corporate Settings",
+        "description": "A predictive model for employee attrition combining advanced feature selection, SMOTE, XGBoost, CatBoost and Gated Recurrent Units. Published as a Springer book chapter in the proceedings of the 4th International Conference on Artificial Intelligence and Smart Energy.",
+        "tags": ["XGBoost", "CatBoost", "GRU", "SMOTE"],
+        "link": {
+          "label": "Read the chapter →",
+          "href": "https://link.springer.com/chapter/10.1007/978-3-031-61475-0_6"
+        }
+      }
+    ]
+  },
+
+  "experience": {
+    "title": "Experience",
+    "meta": "2022 — present",
+    "items": [
+      {
+        "periodLines": ["May '26 —", "Now"],
+        "role": "Member of Technical Staff",
+        "company": "SurveySparrow · Core Team",
+        "bullets": [
+          "Re-architected the Bulk Response Creation API, achieving a **10× performance improvement**, and revamped the Response Import application for scalability and processing efficiency.",
+          "Built AMP Email Surveys, enabling users to complete surveys directly inside email clients."
+        ]
+      },
+      {
+        "periodLines": ["Apr '24 —", "May '26"],
+        "role": "Product Developer",
+        "company": "SurveySparrow · Mobile",
+        "bullets": [
+          "Owned and maintained all mobile SDKs: iOS in SwiftUI and UIKit, Android in Kotlin Jetpack Compose and Java, and cross-platform parity across Flutter, React Native and Ionic.",
+          "Built and integrated iOS CI/CD pipelines using Codemagic, upgraded React Native to the latest stable release, implemented the Google Play Integrity API for Android security, and integrated Google OAuth 2.0 with Expo.",
+          "Delivered time-sensitive features for high-priority clients and supported AppNest initiatives through feature delivery, deployment and integration."
+        ]
+      },
+      {
+        "periodLines": ["Aug '23 —", "Apr '24"],
+        "role": "Intern Product Developer",
+        "company": "SurveySparrow",
+        "description": "Full-stack work across React Native, Flutter, Kotlin, Swift, Node.js (Hapi.js) and PostgreSQL. Shipped feature enhancements and bug fixes on mobile and web under senior mentorship, and worked with the product team on real-world use cases, debugging practices and agile development."
+      },
+      {
+        "periodLines": ["Aug '22 —", "Nov '22"],
+        "role": "Intern Flutter Developer",
+        "company": "Skewess Tech",
+        "description": "Built cross-platform mobile applications in Flutter with Firebase integration for authentication and real-time data handling."
+      }
+    ]
+  },
+
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "period": "2023",
+        "title": "KEC Connect",
+        "description": "A mobile application for Kongu Engineering College, built with Flutter and Firebase for campus-wide communication and event updates."
+      }
+    ]
+  },
+
+  "activities": {
+    "title": "Speaking & Activities",
+    "items": [
+      {
+        "title": "Flutter Workshop — KPR Institute of Engineering & Technology",
+        "description": "Session on cross-platform app development for 100+ students: Dart basics, Flutter intro, and building a first app."
+      },
+      {
+        "title": "Becoming an Interview Pro — Kongu Engineering College",
+        "description": "Guided 250+ students on interview preparation, attitude grooming and real-world insights."
+      },
+      {
+        "title": "Dynamic Programming Seminar — Dept. of CT-PG",
+        "description": "Session for MSc CT-PG final-year students on practical approaches to algorithmic thinking."
+      },
+      {
+        "title": "National Cadet Corps · 2021–2024",
+        "description": "Cadet Under Officer and Sergeant. A, B and C certificates with A grade. Best Cadet Award, IGC cum CATC Camp."
+      },
+      {
+        "title": "SPARCADE Hackathons — SurveySparrow",
+        "description": "Battle of Apps 2024: 2nd Prize and People's Choice Award for AppNest integrations. Battle of Future 2025: built with OpenAI, Claude and Perplexity, exploring Bolt, v0 and Cursor."
+      },
+      {
+        "title": "Best Project Award · 2023–24",
+        "description": "Awarded at the 40th Annual Day for the ensemble-based attrition prediction work."
+      }
+    ]
+  },
+
+  "skills": {
+    "title": "Skills",
+    "groups": [
+      {
+        "label": "Languages",
+        "value": "Python, Swift, Kotlin, Dart, Java, JavaScript, C"
+      },
+      {
+        "label": "Frameworks",
+        "value": "SwiftUI, UIKit, Jetpack Compose, Flutter, React Native, Expo, React, Hapi.js"
+      },
+      {
+        "label": "Data & ML",
+        "value": "PostgreSQL, MySQL, Firebase, BERT, RoBERTa, XGBoost, CatBoost"
+      }
+    ]
+  },
+
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "degree": "MSc Advanced Artificial Intelligence",
+        "meta": "University College Dublin · incoming"
+      },
+      {
+        "degree": "BE Computer Science and Engineering",
+        "meta": "Kongu Engineering College · 2020–2024 · CGPA 8.98"
+      }
+    ]
+  },
+
+  "footer": {
+    "statement": "Open to conversations about AI, mobile platforms and the space between them.",
+    "email": { "label": "gmkrishna11082003@gmail.com", "href": "mailto:gmkrishna11082003@gmail.com" },
+    "links": [
+      { "label": "GitHub", "href": "https://github.com/GOKULKRISHNA-R", "external": true },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/gokulkrishna-raju/", "external": true }
+    ]
+  }
+}

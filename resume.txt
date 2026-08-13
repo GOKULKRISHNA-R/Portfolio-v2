@@ -1,0 +1,114 @@
+GOKULKRISHNA RAJU
+MEMBER OF TECHNICAL STAFF
+A passionate developer with a strong background in building scalable applications and solving complex problems. I have
+led multiple workshops, mentoring over 350 students, and have a keen interest in innovation and technology. Eager to take
+on new challenges, I seek an opportunity to apply my skills effectively while making a meaningful contribution to the
+success of the organization.
+ABOUT ME
+EXPERIENCE
+Product Developer
+Worked on SurveySparrow’s Mobile Apps:
+Upgraded the React Native version to the latest stable release.
+Built and integrated iOS CI/CD pipelines using Codemagic.
+Implemented Google Play Integrity API to bolster Android app security.
+Integrated Google OAuth 2.0 authentication using Expo.
+Owned and Maintained All Mobile SDKs:
+iOS SDKs: Developed and maintained SDKs using both SwiftUI and UIKit.
+Android SDKs: Managed SDKs built with Kotlin Jetpack Compose and Java.
+Cross-Platform SDKs: Ensured feature parity and consistency across Flutter, React
+Native, and Ionic SDKs.
+Contributed to Strategic Customer Deals:
+Delivered time-sensitive features for high-priority clients. Supported via AppNest
+initiatives by ensuring seamless feature delivery, deployment, and integration.
+April `24 - May `26
+SurveySparrow
+Intern Product Developer
+Gained hands-on exposure to full-stack development by exploring a wide range of
+technologies including React Native, Flutter, Kotlin, Swift, Node.js (Hapi.js), and
+PostgreSQL.
+Contributed to minor feature enhancements and bug fixes across mobile and web
+platforms under the mentorship of senior developers.
+Collaborated with the product team to understand real-world use cases, debugging
+practices, and agile development processes. Built a strong technical foundation that
+enabled a smooth transition to a full-time Product Developer role.
+Aug `23 - April `24
+SurveySparrow
+Intern Flutter Developer
+Developed cross-platform mobile applications using Flutter, with seamless Firebase
+integration for authentication and real-time data handling.
+Aug `22 - Nov `22
+Skewess Tech
+gmkrishna11082003@gmail.com	Perundurai, Erode, Tamil Nadu.	+91 6383846825
+WORKED ON
+Android
+Cursor AI
+iOS
+React
+Flutter
+Expo
+React Native
+Hapi Js
+C, Java, Python, Dart, Js, Swift, Kotlin
+FireBase, PostgreSQL, MySQL
+Member of Technical Staff
+Contributed to SurveySparrow's Core Team:
+Built AMP Email Surveys, enabling users to complete surveys directly within email
+clients.
+Re-architected the Bulk Response Creation API, achieving a 10× performance
+improvement, along with revamping the Response Import application, improving
+scalability and processing efficiency.
+May `26 - Now
+SurveySparrow
+
+-- 1 of 2 --
+
+PROJECTS
+Detection of Signs of Depression using Social Media Text
+Developed a Machine Learning and Deep Learning pipeline using BERT, CNN, RoBERTa, and
+SVM for mental health detection.
+Ranked 12th globally in LT-EDI@RANLP 2023 hosted on CodaLab.
+Paper Link (ACL Anthology)
+Ensemble-Based Attrition Prediction in Corporate Settings
+Built a predictive model with advanced feature selection, SMOTE, XGBoost, CATBoost, and a
+Gated Recurrent Units (GRU) for employee attrition using ensemble techniques.
+Published as a Springer Book Chapter - Proceedings of 4th International Conference on
+Artificial Intelligence and Smart Energy
+KEC Connect
+Developed 	a 	mobile 	application 	for 	KEC 	using 	Flutter 	and 	Firebase 	for 	campus-wide
+communication and event updates.
+ACTIVITIES & ACHIEVEMENTS
+National Cadet Corps (NCC) | 2021 – 2024
+Served as Cadet Under Officer and Sergeant.
+Completed A, B, and C certificates with A grade.
+Honored with the Best Cadet Award in the IGC cum CATC Camp for excellence in leadership
+and service.
+Speaker – Flutter Workshop at KPR Institute of Engineering & Technology
+Conducted a session on Cross-Platform App Development using Flutter for 100+ students.
+Covered: Dart basics, Flutter intro, and building your first app.
+Speaker – "Becoming an Interview Pro" at Kongu Engineering College
+Guided 250+ students on cracking interviews with preparation tips, attitude grooming, and
+real-world insights.
+Seminar on Dynamic Programming – Dept. of CT-PG
+Delivered a session to MSc CT-PG final-year students with peers, focusing on practical
+approaches to algorithmic thinking and dynamic programming.
+SPARCADE Hackathons @ SurveySparrow
+Battle 	of 	Apps 	(2024) 	– 	Secured 	2nd 	Prize 	and 	People’s 	Choice 	Award 	for 	building
+integrations within SurveySparrow's AppNest ecosystem.
+Battle of Future (2025) – Explored LLMs like OpenAI, Claude, and Perplexity; experimented
+with AI tools including Bolt, v0, and Cursor AI to drive innovation.
+Best Project Award (2023–24)
+Won Best Project award at the 40th Annual Day, recognizing academic innovation and
+teamwork for Ensemble-Based Attrition Prediction in Corporate Settings.
+EDUCATION
+BE Computer Science and Engineering
+Kongu Engineering College. 2020 - 2024
+HSE
+MALCO Vidyalaya, Mettur Dam. 2019 - 2020
+SSLC
+KVS Mat, Virudhunagar. 2017 - 2018
+CGPA: 8.98
+Percent: 85.84
+Percent: 93.2
+
+-- 2 of 2 --
+
